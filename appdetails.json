@@ -17,6 +17,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"34.132.23.88","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Japan","country":"Tokyo","image":"tokyo","ip":"34.85.70.208","active":"true","signal":"a"}
+    {"id":1, "file":1, "city":"Japan","country":"Tokyo","image":"japan","ip":"34.85.70.208","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"France","country":"Paris","image":"france","ip":"34.85.70.208","active":"true","signal":"a"}
   ]
 }
